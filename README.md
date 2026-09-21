@@ -159,10 +159,10 @@ Paste your YouTube or Google Drive video link here.
 
 ## 👨‍💻 Team Members
 
-- Shreehari S. Kulkarni
-- Pranav Ethapay
-- Ranjan S.
-- Sanket Biradar
+JS Vignnesh
+Harshit Kumar BV
+Akash
+Akshay kumar
 
 ## 🎓 Academic Project
 
