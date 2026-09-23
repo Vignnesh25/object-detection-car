@@ -141,21 +141,7 @@ else
 - Automatic path planning
 - Servo-controlled ultrasonic scanning
 
-## 📸 Project Photos
-
-Add your project images here:
-
-```markdown
-![Object Detection Car](images/robot_car.jpg)
-```
-
-## 🎥 Project Demonstration
-
-Add your project demonstration video link here:
-
-```text
-Paste your YouTube or Google Drive video link here.
-```
+#
 
 ## 👨‍💻 Team Members
 
