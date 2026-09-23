@@ -145,10 +145,10 @@ else
 
 ## 👨‍💻 Team Members
 
-JS Vignnesh
-Harshit Kumar BV
-Akash
-Akshay kumar
+JS Vignnesh,
+Harshit Kumar BV,
+Akash,
+Akshay kumar,
 
 ## 🎓 Academic Project
 
