@@ -1,0 +1,16 @@
+ Uses of an Object Detection Car 🚗
+
+An **Object Detection Car** uses sensors/cameras and a microcontroller to detect objects or obstacles and take appropriate action. Common uses include:
+
+1. **Obstacle Detection** – Detects objects in front of the car and helps prevent collisions.
+2. **Accident Prevention** – Warns the driver or automatically stops/slows the car when an obstacle is detected.
+3. **Automatic Braking** – Can trigger braking when an object is dangerously close.
+4. **Parking Assistance** – Detects nearby vehicles, walls, and other objects while parking.
+5. **Pedestrian Detection** – Identifies people or pedestrians in the vehicle's path.
+6. **Lane and Road Safety** – Can be extended to identify road boundaries and other vehicles.
+7. **Smart Vehicles** – Acts as a basic prototype for autonomous-driving technologies.
+8. **Traffic Monitoring** – Can detect and identify nearby vehicles and objects.
+9. **Emergency Warning System** – Provides alerts when a collision risk is detected.
+10. **Educational Projects** – Helps students learn about **Arduino, sensors, computer vision, IoT, and robotics**.
+
+**In short:** The main purpose is to improve **vehicle safety by detecting obstacles and reducing the possibility of collisions**.
